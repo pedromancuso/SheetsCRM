@@ -1,3 +1,3 @@
 # SheetsCRM
  SheetsCRM LandingPage
- [sheetscrm.ml](http://http://www.sheetscrm.ml/)
+ [sheetscrm.ml](http://www.sheetscrm.ml/)
